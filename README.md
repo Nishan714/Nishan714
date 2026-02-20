@@ -1,31 +1,50 @@
-## Hi, I'm Nishan 👋
+# Nishan Mitra  
+AI & Healthcare Systems Researcher  
 
 🎓 B.Tech CSE (AIML), IEM Kolkata  
-🔬 Research interests: Medical AI, Deep Learning, Quantum Machine Learning  
+🔬 Research Focus: Healthcare AI, Hybrid Quantum-Classical Learning, Explainable ML  
+📍 Kolkata, India  
 
 ---
 
-## 📄 Research Work
-- **Maternal Health Risk Classification** — Journal submission (under review)  
-- **UQCCNN / HQCCNN** — Quantum CNN with uncertainty modeling (under review)  
-- **Alzheimer’s Disease Detection** — NNDL project (Springer format)
+## Research Interests
+- Hybrid Quantum–Classical Neural Networks
+- Medical Image Analysis
+- Explainable AI in Clinical Systems
+- AI-integrated Wireless Body Area Networks (WBAN)
 
 ---
 
-## 🛠️ Technical Skills
-- Python, NumPy, Pandas, Scikit-learn  
-- TensorFlow / PyTorch  
-- Machine Learning & Deep Learning  
-- Research-oriented implementation  
+## Featured Research Projects
+
+### 1. UQCCNN – Hybrid Quantum-Classical CNN
+Unified 8-qubit VQC integrated with CNN backbone for brain tumor classification.
+- 99.69% binary accuracy (Dataset-1)
+- Cross-dataset validation
+- Noise-aware NISQ simulation
+
+Status: IEEE manuscript under revision
 
 ---
 
-## 🎯 Goals
-- Fully funded MS / PhD opportunities  
-- Research internships  
-- Long-term work in AI for healthcare  
+### 2. Maternal Health Risk Classification (IEEE QPAIN 2026)
+Explainable ML framework using Bangladeshi clinical data.
+- Random Forest: 97.93% Accuracy
+- SHAP-based interpretability
+- SMOTE imbalance handling
 
 ---
 
-📫 GitHub: https://github.com/Nishan714
+### 3. AI-Integrated WBAN System (Ongoing)
+Real-time biomedical monitoring using wearable sensor data + predictive ML.
 
+---
+
+## Publications
+- Maternal Health Risk Classification – IEEE QPAIN 2026
+- UQCCNN – Under IEEE Resubmission
+
+---
+
+## Technical Stack
+Python | PyTorch | TensorFlow | Scikit-learn | SHAP | PennyLane | Git
